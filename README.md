@@ -9,4 +9,4 @@ Use Server to create servers to handle requests and act as blockchain nodes.
 
 Need package [github.com/gorilla/mux](https://github.com/gorilla/mux) and [github.com/goraft/raft](https://github.com/goraft/raft)
 
-Chameleon hash based on [https://github.com/julwil/chameleon_hash](https://github.com/julwil/chameleon_hash)
+Chameleon hash based on [julwil/chameleon_hash](https://github.com/julwil/chameleon_hash)
