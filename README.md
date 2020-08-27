@@ -7,6 +7,6 @@ Use Client to send request to server.
 
 Use Server to create servers to handle requests and act as blockchain nodes. 
 
-Need package [github.com/gorrilla/mux](https://github.com/gorrilla/mux) and [github.com/goraft/raft](https://github.com/goraft/raft)
+Need package [github.com/gorilla/mux](https://github.com/gorilla/mux) and [github.com/goraft/raft](https://github.com/goraft/raft)
 
 Chameleon hash based on [https://github.com/julwil/chameleon_hash](https://github.com/julwil/chameleon_hash)
