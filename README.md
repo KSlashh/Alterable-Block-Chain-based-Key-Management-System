@@ -6,3 +6,5 @@ Use Config to create config file(consists of parameter for chameleon hash).
 Use Client to send request to server. 
 
 Use Server to create servers to handle requests and act as blockchain nodes. 
+
+Need github.com/gorrila/mux and github.com/goraft/raft
